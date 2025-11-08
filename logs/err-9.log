@@ -1,0 +1,1470 @@
+2025-11-08T13:23:58: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:23:58: Require stack:
+2025-11-08T13:23:58: - /root/whatsapp-gateway/server.js
+2025-11-08T13:23:58:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:23:58:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:23:58:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:23:58:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:23:58:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:23:58:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:23:58:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:23:58:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:23:58:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:23:58:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:23:58:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:23:58:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:23:58: }
+2025-11-08T13:23:58: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:23:58: Require stack:
+2025-11-08T13:23:58: - /root/whatsapp-gateway/server.js
+2025-11-08T13:23:58:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:23:58:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:23:58:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:23:58:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:23:58:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:23:58:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:23:58:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:23:58:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:23:58:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:23:58:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:23:58:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:23:58:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:23:58: }
+2025-11-08T13:23:59: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:23:59: Require stack:
+2025-11-08T13:23:59: - /root/whatsapp-gateway/server.js
+2025-11-08T13:23:59:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:23:59:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:23:59:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:23:59:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:23:59:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:23:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:23:59:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:23:59:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:23:59:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:23:59:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:23:59:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:23:59:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:23:59: }
+2025-11-08T13:23:59: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:23:59: Require stack:
+2025-11-08T13:23:59: - /root/whatsapp-gateway/server.js
+2025-11-08T13:23:59:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:23:59:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:23:59:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:23:59:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:23:59:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:23:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:23:59:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:23:59:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:23:59:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:23:59:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:23:59:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:23:59:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:23:59: }
+2025-11-08T13:23:59: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:23:59: Require stack:
+2025-11-08T13:23:59: - /root/whatsapp-gateway/server.js
+2025-11-08T13:23:59:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:23:59:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:23:59:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:23:59:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:23:59:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:23:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:23:59:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:23:59:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:23:59:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:23:59:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:23:59:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:23:59:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:23:59: }
+2025-11-08T13:24:00: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:24:00: Require stack:
+2025-11-08T13:24:00: - /root/whatsapp-gateway/server.js
+2025-11-08T13:24:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:24:00:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:24:00:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:24:00:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:24:00:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:24:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:24:00:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:24:00:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:24:00:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:24:00:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:24:00:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:24:00:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:24:00: }
+2025-11-08T13:24:00: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:24:00: Require stack:
+2025-11-08T13:24:00: - /root/whatsapp-gateway/server.js
+2025-11-08T13:24:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:24:00:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:24:00:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:24:00:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:24:00:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:24:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:24:00:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:24:00:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:24:00:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:24:00:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:24:00:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:24:00:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:24:00: }
+2025-11-08T13:24:00: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:24:00: Require stack:
+2025-11-08T13:24:00: - /root/whatsapp-gateway/server.js
+2025-11-08T13:24:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:24:00:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:24:00:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:24:00:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:24:00:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:24:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:24:00:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:24:00:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:24:00:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:24:00:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:24:00:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:24:00:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:24:00: }
+2025-11-08T13:24:00: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:24:00: Require stack:
+2025-11-08T13:24:00: - /root/whatsapp-gateway/server.js
+2025-11-08T13:24:00:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:24:00:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:24:00:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:24:00:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:24:00:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:24:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:24:00:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:24:00:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:24:00:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:24:00:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:24:00:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:24:00:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:24:00: }
+2025-11-08T13:24:01: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:24:01: Require stack:
+2025-11-08T13:24:01: - /root/whatsapp-gateway/server.js
+2025-11-08T13:24:01:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:24:01:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:24:01:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:24:01:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:24:01:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:24:01:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:24:01:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:24:01:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:24:01:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:24:01:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:24:01:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:24:01:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:24:01: }
+2025-11-08T13:24:01: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:24:01: Require stack:
+2025-11-08T13:24:01: - /root/whatsapp-gateway/server.js
+2025-11-08T13:24:01:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:24:01:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:24:01:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:24:01:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:24:01:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:24:01:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:24:01:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:24:01:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:24:01:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:24:01:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:24:01:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:24:01:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:24:01: }
+2025-11-08T13:24:01: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:24:01: Require stack:
+2025-11-08T13:24:01: - /root/whatsapp-gateway/server.js
+2025-11-08T13:24:01:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:24:01:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:24:01:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:24:01:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:24:01:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:24:01:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:24:01:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:24:01:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:24:01:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:24:01:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:24:01:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:24:01:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:24:01: }
+2025-11-08T13:24:02: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:24:02: Require stack:
+2025-11-08T13:24:02: - /root/whatsapp-gateway/server.js
+2025-11-08T13:24:02:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:24:02:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:24:02:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:24:02:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:24:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:24:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:24:02:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:24:02:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:24:02:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:24:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:24:02:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:24:02:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:24:02: }
+2025-11-08T13:24:02: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:24:02: Require stack:
+2025-11-08T13:24:02: - /root/whatsapp-gateway/server.js
+2025-11-08T13:24:02:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:24:02:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:24:02:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:24:02:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:24:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:24:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:24:02:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:24:02:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:24:02:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:24:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:24:02:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:24:02:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:24:02: }
+2025-11-08T13:24:02: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:24:02: Require stack:
+2025-11-08T13:24:02: - /root/whatsapp-gateway/server.js
+2025-11-08T13:24:02:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:24:02:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:24:02:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:24:02:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:24:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:24:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:24:02:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:24:02:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:24:02:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:24:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:24:02:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:24:02:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:24:02: }
+2025-11-08T13:24:02: Error: Cannot find module '@whiskeysockets/baileys'
+2025-11-08T13:24:02: Require stack:
+2025-11-08T13:24:02: - /root/whatsapp-gateway/server.js
+2025-11-08T13:24:02:     at Module._resolveFilename (node:internal/modules/cjs/loader:1207:15)
+2025-11-08T13:24:02:     at Hook._require.Module.require (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+2025-11-08T13:24:02:     at require (node:internal/modules/helpers:182:18)
+2025-11-08T13:24:02:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:23:5)
+2025-11-08T13:24:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:24:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:24:02:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:24:02:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:24:02:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:24:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14) {
+2025-11-08T13:24:02:   code: 'MODULE_NOT_FOUND',
+2025-11-08T13:24:02:   requireStack: [ '/root/whatsapp-gateway/server.js' ]
+2025-11-08T13:24:02: }
+2025-11-08T13:31:31: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:31:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:31:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:31:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:31:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:31:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:31:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:31:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:31:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:31:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:31:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:31: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:31:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:31:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:31:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:31:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:31:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:31:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:31:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:31:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:31:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:31:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:32: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:32:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:32:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:32:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:32:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:32:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:32:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:32:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:32:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:32:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:32:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:33: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:33:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:33:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:33:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:33:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:33:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:33:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:33:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:33:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:33:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:33:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:34: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:34:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:34:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:34:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:34:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:34:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:34:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:34:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:34:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:34:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:34:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:35: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:35:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:35:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:35:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:35:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:35:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:35:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:35:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:35:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:35:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:35:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:35: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:35:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:35:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:35:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:35:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:35:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:35:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:35:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:35:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:35:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:35:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:36: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:36:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:36:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:36:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:36:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:36:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:36:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:36:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:36:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:36:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:36:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:37: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:37:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:37:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:37:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:37:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:37:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:37:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:37:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:37:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:37:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:37:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:38: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:38:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:38:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:38:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:38:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:38:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:38:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:38:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:38:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:38:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:38:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:39: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:39:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:39:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:39:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:39:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:39:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:39:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:39:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:39:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:39:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:39:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:39: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:39:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:39:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:39:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:39:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:39:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:39:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:39:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:39:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:39:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:39:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:40: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:40:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:40:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:40:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:40:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:40:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:40:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:40:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:40:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:40:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:40:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:41: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:41:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:41:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:41:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:41:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:41:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:41:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:41:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:41:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:41:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:41:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:42: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:42:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:42:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:42:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:42:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:42:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:42:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:42:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:42:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:42:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:42:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:42: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:31:42:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:31:42:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:42:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:42:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:42:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:31:42:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:31:42:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:31:42:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:31:42:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:31:42:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:39: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:39:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:39:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:39:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:39:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:39:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:39:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:39:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:39:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:39:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:39:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:39: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:39:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:39:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:39:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:39:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:39:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:39:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:39:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:39:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:39:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:39:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:40: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:40:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:40:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:40:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:40:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:40:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:40:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:40:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:40:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:40:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:40:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:41: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:41:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:41:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:41:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:41:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:41:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:41:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:41:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:41:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:41:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:41:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:41: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:41:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:41:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:41:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:41:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:41:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:41:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:41:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:41:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:41:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:41:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:42: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:42:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:42:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:42:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:42:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:42:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:42:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:42:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:42:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:42:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:42:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:43: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:43:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:43:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:43:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:43:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:43:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:43:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:43:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:43:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:43:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:43:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:44: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:44:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:44:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:44:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:44:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:44:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:44:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:44:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:44:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:44:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:44:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:45: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:45:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:45:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:45:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:45:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:45:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:45:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:45:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:45:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:45:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:45:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:46: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:46:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:46:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:46:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:46:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:46:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:46:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:46:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:46:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:46:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:46:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:46: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:46:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:46:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:46:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:46:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:46:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:46:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:46:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:46:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:46:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:46:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:47: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:47:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:47:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:47:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:47:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:47:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:47:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:47:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:47:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:47:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:47:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:48: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:48:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:48:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:48:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:48:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:48:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:48:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:48:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:48:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:48:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:48:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:49: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:49:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:49:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:49:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:49:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:49:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:49:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:49:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:49:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:49:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:49:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:49: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:49:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:49:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:49:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:49:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:49:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:49:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:49:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:49:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:49:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:49:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:50: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:33:50:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:33:50:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:50:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:50:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:50:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:33:50:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:33:50:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:33:50:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:33:50:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:33:50:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:55: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:34:55:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:34:55:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:55:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:55:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:55:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:55:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:34:55:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:55:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:55:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:55:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:56: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:34:56:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:34:56:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:56:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:56:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:56:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:34:56:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:56:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:56:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:57: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:34:57:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:34:57:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:57:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:57:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:57:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:57:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:34:57:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:57:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:57:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:57:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:58: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:34:58:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:34:58:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:58:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:58:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:58:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:58:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:34:58:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:58:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:58:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:58:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:59: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:34:59:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:34:59:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:59:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:59:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:59:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:34:59:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:59:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:59:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:59: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:34:59:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:34:59:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:59:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:59:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:34:59:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:34:59:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:34:59:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:34:59:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:34:59:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:00: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:35:00:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:35:00:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:00:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:00:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:00:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:35:00:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:00:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:00:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:00:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:01: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:35:01:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:35:01:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:01:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:01:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:01:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:01:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:35:01:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:01:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:01:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:01:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:02: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:35:02:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:35:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:02:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:02:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:02:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:35:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:02:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:02:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:02: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:35:02:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:35:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:02:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:02:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:02:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:35:02:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:02:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:02:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:02:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:03: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:35:03:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:35:03:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:03:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:03:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:03:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:03:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:35:03:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:03:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:03:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:03:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:04: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:35:04:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:35:04:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:04:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:04:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:04:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:04:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:35:04:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:04:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:04:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:04:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:04: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:35:04:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:35:04:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:04:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:04:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:04:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:04:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:35:04:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:04:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:04:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:04:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:05: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:35:05:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:35:05:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:05:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:05:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:05:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:05:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:35:05:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:05:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:05:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:05:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:05: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:35:05:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:35:05:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:05:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:05:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:05:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:05:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:35:05:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:05:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:05:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:05:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:06: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:35:06:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:35:06:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:06:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:06:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:06:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:35:06:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:35:06:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:35:06:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:35:06:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:35:06:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:40: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:40:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:40:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:40:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:40:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:40:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:40:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:40:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:40:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:40:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:40:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:41: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:41:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:41:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:41:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:41:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:41:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:41:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:41:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:41:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:41:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:41:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:41: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:41:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:41:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:41:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:41:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:41:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:41:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:41:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:41:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:41:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:41:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:42: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:42:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:42:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:42:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:42:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:42:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:42:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:42:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:42:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:42:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:42:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:43: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:43:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:43:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:43:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:43:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:43:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:43:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:43:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:43:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:43:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:43:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:43: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:43:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:43:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:43:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:43:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:43:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:43:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:43:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:43:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:43:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:43:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:44: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:44:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:44:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:44:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:44:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:44:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:44:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:44:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:44:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:44:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:44:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:44: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:44:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:44:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:44:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:44:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:44:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:44:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:44:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:44:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:44:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:44:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:45: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:45:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:45:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:45:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:45:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:45:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:45:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:45:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:45:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:45:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:45:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:46: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:46:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:46:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:46:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:46:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:46:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:46:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:46:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:46:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:46:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:46:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:46: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:46:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:46:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:46:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:46:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:46:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:46:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:46:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:46:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:46:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:46:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:47: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:47:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:47:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:47:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:47:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:47:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:47:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:47:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:47:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:47:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:47:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:48: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:48:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:48:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:48:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:48:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:48:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:48:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:48:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:48:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:48:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:48:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:48: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:48:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:48:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:48:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:48:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:48:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:48:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:48:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:48:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:48:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:48:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:49: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:49:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:49:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:49:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:49:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:49:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:49:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:49:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:49:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:49:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:49:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:50: TypeError: makeInMemoryStore is not a function
+2025-11-08T13:36:50:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:63:15)
+2025-11-08T13:36:50:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:50:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:50:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:50:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:36:50:     at Object.<anonymous> (/root/.nvm/versions/node/v25.1.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2025-11-08T13:36:50:     at Module._compile (node:internal/modules/cjs/loader:1521:14)
+2025-11-08T13:36:50:     at Module._extensions..js (node:internal/modules/cjs/loader:1623:10)
+2025-11-08T13:36:50:     at Module.load (node:internal/modules/cjs/loader:1266:32)
+2025-11-08T13:36:50:     at Module._load (node:internal/modules/cjs/loader:1091:12)
+2025-11-08T13:38:16: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:16: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:16: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:16:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:16:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:16:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:16:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:16:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:16:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:16:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:16:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:16:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:16:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:16:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:16: }
+2025-11-08T13:38:17: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:17: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:17: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:17:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:17:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:17:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:17:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:17:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:17:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:17:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:17:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:17:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:17:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:17:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:17: }
+2025-11-08T13:38:17: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:17: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:17: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:17:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:17:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:17:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:17:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:17:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:17:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:17:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:17:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:17:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:17:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:17:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:17: }
+2025-11-08T13:38:18: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:18: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:18: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:18:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:18:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:18:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:18:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:18:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:18:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:18:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:18:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:18:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:18:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:18:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:18: }
+2025-11-08T13:38:19: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:19: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:19: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:19:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:19:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:19:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:19:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:19:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:19:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:19:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:19:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:19:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:19:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:19:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:19: }
+2025-11-08T13:38:19: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:19: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:19: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:19:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:19:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:19:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:19:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:19:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:19:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:19:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:19:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:19:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:19:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:19:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:19: }
+2025-11-08T13:38:20: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:20: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:20: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:20:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:20:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:20:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:20:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:20:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:20:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:20:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:20:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:20:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:20:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:20:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:20: }
+2025-11-08T13:38:21: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:21: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:21: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:21:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:21:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:21:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:21:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:21:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:21:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:21:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:21:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:21:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:21:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:21:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:21: }
+2025-11-08T13:38:21: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:21: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:21: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:21:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:21:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:21:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:21:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:21:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:21:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:21:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:21:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:21:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:21:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:21:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:21: }
+2025-11-08T13:38:22: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:22: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:22: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:22:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:22:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:22:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:22:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:22:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:22:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:22:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:22:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:22:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:22:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:22:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:22: }
+2025-11-08T13:38:23: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:23: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:23: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:23:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:23:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:23:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:23:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:23:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:23:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:23:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:23:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:23:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:23:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:23:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:23: }
+2025-11-08T13:38:23: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:23: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:23: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:23:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:23:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:23:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:23:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:23:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:23:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:23:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:23:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:23:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:23:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:23:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:23: }
+2025-11-08T13:38:24: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:24: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:24: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:24:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:24:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:24:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:24:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:24:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:24:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:24:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:24:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:24:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:24:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:24:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:24: }
+2025-11-08T13:38:25: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:25: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:25: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:25:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:25:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:25:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:25:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:25:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:25:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:25:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:25:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:25:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:25:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:25:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:25: }
+2025-11-08T13:38:25: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:25: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:25: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:25:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:25:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:25:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:25:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:25:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:25:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:25:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:25:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:25:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:25:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:25:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:25: }
+2025-11-08T13:38:26: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:38:26: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:38:26: PathError [TypeError]: Unexpected ? at index 16, expected end: /api/qr/:phoneId?; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:38:26:     at consumeUntil (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:153:19)
+2025-11-08T13:38:26:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:157:26)
+2025-11-08T13:38:26:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:38:26:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:38:26:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:38:26:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:38:26:     at Function.route (/root/whatsapp-gateway/node_modules/router/index.js:428:17)
+2025-11-08T13:38:26:     at Function.route (/root/whatsapp-gateway/node_modules/express/lib/application.js:257:22)
+2025-11-08T13:38:26:     at app.<computed> [as get] (/root/whatsapp-gateway/node_modules/express/lib/application.js:478:22)
+2025-11-08T13:38:26:     at Object.<anonymous> (/root/whatsapp-gateway/server.js:163:5) {
+2025-11-08T13:38:26:   originalPath: '/api/qr/:phoneId?'
+2025-11-08T13:38:26: }
+2025-11-08T13:44:12: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:12: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:12: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:12:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:12:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:12:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:12:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:12:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:12:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:12:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:12:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:12:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:12:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:12:   originalPath: '*'
+2025-11-08T13:44:12: }
+2025-11-08T13:44:12: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:12: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:12: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:12:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:12:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:12:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:12:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:12:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:12:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:12:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:12:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:12:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:12:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:12:   originalPath: '*'
+2025-11-08T13:44:12: }
+2025-11-08T13:44:13: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:13: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:13: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:13:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:13:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:13:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:13:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:13:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:13:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:13:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:13:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:13:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:13:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:13:   originalPath: '*'
+2025-11-08T13:44:13: }
+2025-11-08T13:44:14: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:14: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:14: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:14:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:14:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:14:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:14:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:14:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:14:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:14:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:14:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:14:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:14:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:14:   originalPath: '*'
+2025-11-08T13:44:14: }
+2025-11-08T13:44:14: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:14: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:15: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:15:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:15:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:15:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:15:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:15:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:15:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:15:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:15:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:15:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:15:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:15:   originalPath: '*'
+2025-11-08T13:44:15: }
+2025-11-08T13:44:15: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:15: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:15: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:15:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:15:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:15:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:15:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:15:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:15:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:15:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:15:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:15:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:15:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:15:   originalPath: '*'
+2025-11-08T13:44:15: }
+2025-11-08T13:44:16: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:16: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:16: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:16:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:16:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:16:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:16:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:16:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:16:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:16:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:16:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:16:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:16:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:16:   originalPath: '*'
+2025-11-08T13:44:16: }
+2025-11-08T13:44:17: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:17: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:17: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:17:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:17:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:17:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:17:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:17:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:17:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:17:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:17:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:17:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:17:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:17:   originalPath: '*'
+2025-11-08T13:44:17: }
+2025-11-08T13:44:17: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:17: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:17: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:17:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:17:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:17:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:17:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:17:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:17:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:17:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:17:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:17:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:17:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:17:   originalPath: '*'
+2025-11-08T13:44:17: }
+2025-11-08T13:44:18: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:18: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:18: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:18:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:18:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:18:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:18:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:18:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:18:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:18:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:18:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:18:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:18:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:18:   originalPath: '*'
+2025-11-08T13:44:18: }
+2025-11-08T13:44:19: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:19: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:19: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:19:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:19:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:19:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:19:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:19:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:19:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:19:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:19:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:19:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:19:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:19:   originalPath: '*'
+2025-11-08T13:44:19: }
+2025-11-08T13:44:19: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:19: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:19: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:19:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:19:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:19:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:19:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:19:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:19:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:19:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:19:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:19:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:19:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:19:   originalPath: '*'
+2025-11-08T13:44:19: }
+2025-11-08T13:44:20: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:20: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:20: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:20:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:20:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:20:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:20:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:20:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:20:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:20:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:20:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:20:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:20:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:20:   originalPath: '*'
+2025-11-08T13:44:20: }
+2025-11-08T13:44:21: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:21: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:21: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:21:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:21:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:21:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:21:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:21:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:21:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:21:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:21:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:21:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:21:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:21:   originalPath: '*'
+2025-11-08T13:44:21: }
+2025-11-08T13:44:22: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:22: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:22: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:22:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:22:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:22:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:22:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:22:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:22:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:22:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:22:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:22:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:22:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:22:   originalPath: '*'
+2025-11-08T13:44:22: }
+2025-11-08T13:44:22: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:44:22: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:44:22: PathError [TypeError]: Missing parameter name at index 1: *; visit https://git.new/pathToRegexpError for info
+2025-11-08T13:44:22:     at name (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:96:19)
+2025-11-08T13:44:22:     at parse (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:113:68)
+2025-11-08T13:44:22:     at pathToRegexp (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:267:58)
+2025-11-08T13:44:22:     at Object.match (/root/whatsapp-gateway/node_modules/path-to-regexp/dist/index.js:237:30)
+2025-11-08T13:44:22:     at matcher (/root/whatsapp-gateway/node_modules/router/lib/layer.js:86:23)
+2025-11-08T13:44:22:     at new Layer (/root/whatsapp-gateway/node_modules/router/lib/layer.js:93:62)
+2025-11-08T13:44:22:     at Function.use (/root/whatsapp-gateway/node_modules/router/index.js:398:19)
+2025-11-08T13:44:22:     at Function.<anonymous> (/root/whatsapp-gateway/node_modules/express/lib/application.js:222:21)
+2025-11-08T13:44:22:     at Array.forEach (<anonymous>)
+2025-11-08T13:44:22:     at Function.use (/root/whatsapp-gateway/node_modules/express/lib/application.js:219:7) {
+2025-11-08T13:44:22:   originalPath: '*'
+2025-11-08T13:44:22: }
+2025-11-08T13:45:01: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:45:01: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:45:01: Error connecting to WhatsApp for default: TypeError: logger.child is not a function
+2025-11-08T13:45:01:     at makeNoiseHandler (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Utils/noise-handler.js:12:21)
+2025-11-08T13:45:01:     at makeSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:35:19)
+2025-11-08T13:45:01:     at makeUSyncSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/usync.js:6:18)
+2025-11-08T13:45:01:     at makeChatsSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/chats.js:16:18)
+2025-11-08T13:45:01:     at makeGroupsSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/groups.js:7:18)
+2025-11-08T13:45:01:     at makeMessagesSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:13:39)
+2025-11-08T13:45:01:     at makeMessagesRecvSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/messages-recv.js:15:18)
+2025-11-08T13:45:01:     at makeBusinessSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/business.js:6:18)
+2025-11-08T13:45:01:     at makeCommunitiesSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/communities.js:8:18)
+2025-11-08T13:45:01:     at makeWASocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/index.js:14:12)
+2025-11-08T13:45:01: TypeError: logger.child is not a function
+2025-11-08T13:45:01:     at makeNoiseHandler (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Utils/noise-handler.js:12:21)
+2025-11-08T13:45:01:     at makeSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:35:19)
+2025-11-08T13:45:01:     at makeUSyncSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/usync.js:6:18)
+2025-11-08T13:45:01:     at makeChatsSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/chats.js:16:18)
+2025-11-08T13:45:01:     at makeGroupsSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/groups.js:7:18)
+2025-11-08T13:45:01:     at makeMessagesSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:13:39)
+2025-11-08T13:45:01:     at makeMessagesRecvSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/messages-recv.js:15:18)
+2025-11-08T13:45:01:     at makeBusinessSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/business.js:6:18)
+2025-11-08T13:45:01:     at makeCommunitiesSocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/communities.js:8:18)
+2025-11-08T13:45:01:     at makeWASocket (file:///root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/lib/Socket/index.js:14:12)
+2025-11-08T13:45:13: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:45:13: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:45:39: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:45:39: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+2025-11-08T13:46:28: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:46:28: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.

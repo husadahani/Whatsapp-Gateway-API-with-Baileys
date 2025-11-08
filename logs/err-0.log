@@ -1,0 +1,2 @@
+2025-11-08T13:50:01: makeInMemoryStore not available: exports is not defined in ES module scope
+2025-11-08T13:50:01: This file is being treated as an ES module because it has a '.js' file extension and '/root/whatsapp-gateway/node_modules/@whiskeysockets/baileys/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.

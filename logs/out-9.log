@@ -1,0 +1,529 @@
+2025-11-08T13:23:58: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-11-08T13:23:58: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:23:59: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:23:59: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:23:59: [dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2025-11-08T13:23:59: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:24:00: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:24:00: [dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2025-11-08T13:24:00: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:24:01: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:24:01: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:24:01: [dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2025-11-08T13:24:01: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:24:02: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:24:02: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:24:02: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:31:30: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-11-08T13:31:31: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:31:31: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:31:31: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:31:32: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:31:32: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:31:32: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:31:33: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:31:33: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:31:34: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:31:34: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:31:35: [dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2025-11-08T13:31:35: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:31:35: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-11-08T13:31:36: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:31:36: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:31:36: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:31:37: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:31:37: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:31:38: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:31:38: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:31:38: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:31:39: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:31:39: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:31:39: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:31:40: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:31:40: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:31:41: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:31:41: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:31:42: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:31:42: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:31:42: [dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+2025-11-08T13:33:38: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:33:38: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:33:39: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:33:39: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:33:39: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:33:40: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:33:40: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:33:41: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:33:41: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:33:41: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:33:42: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:33:42: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+2025-11-08T13:33:42: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:33:43: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:33:43: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+2025-11-08T13:33:44: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:33:44: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:33:45: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:33:45: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+2025-11-08T13:33:46: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:33:46: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:33:46: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:33:46: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-11-08T13:33:47: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+2025-11-08T13:33:47: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+2025-11-08T13:33:48: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+2025-11-08T13:33:48: [dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+2025-11-08T13:33:49: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:33:49: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:33:49: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:33:50: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+2025-11-08T13:33:50: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:34:55: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:34:55: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:34:56: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:34:56: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:34:56: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-11-08T13:34:57: [dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+2025-11-08T13:34:57: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-11-08T13:34:58: [dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2025-11-08T13:34:58: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:34:59: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+2025-11-08T13:34:59: [dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2025-11-08T13:34:59: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:34:59: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:35:00: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+2025-11-08T13:35:00: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:35:01: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:35:01: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:35:02: [dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2025-11-08T13:35:02: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+2025-11-08T13:35:02: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:35:02: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:35:03: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:35:03: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-11-08T13:35:04: [dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+2025-11-08T13:35:04: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+2025-11-08T13:35:04: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:35:04: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:35:05: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:35:05: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+2025-11-08T13:35:05: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:35:06: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:35:06: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:36:39: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:36:40: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:36:40: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:36:41: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:36:41: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:36:41: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:36:41: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+2025-11-08T13:36:42: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:36:42: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:36:42: [dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+2025-11-08T13:36:43: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:36:43: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:36:43: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+2025-11-08T13:36:44: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:36:44: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:36:44: [dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+2025-11-08T13:36:45: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:36:45: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:36:45: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:36:46: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:36:46: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:36:46: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+2025-11-08T13:36:47: [dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+2025-11-08T13:36:47: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:36:47: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:36:48: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:36:48: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:36:48: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:36:49: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:36:49: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+2025-11-08T13:36:49: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:36:50: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:38:16: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:38:16: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-11-08T13:38:16: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:38:17: [dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2025-11-08T13:38:17: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:38:17: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:38:18: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:38:18: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:38:18: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:38:19: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:38:19: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:38:19: [dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+2025-11-08T13:38:20: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:38:20: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:38:20: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:38:21: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:38:21: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:38:21: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:38:21: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:38:22: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+2025-11-08T13:38:22: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:38:23: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+2025-11-08T13:38:23: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:38:23: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+2025-11-08T13:38:24: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:38:24: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:38:24: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:38:25: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:38:25: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:38:25: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:38:26: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:38:26: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:44:11: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:44:12: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:44:12: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-11-08T13:44:12: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:44:12: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:44:13: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-11-08T13:44:13: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+2025-11-08T13:44:14: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+2025-11-08T13:44:14: [dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2025-11-08T13:44:14: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:44:15: [dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+2025-11-08T13:44:15: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:44:15: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:44:16: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+2025-11-08T13:44:16: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+2025-11-08T13:44:17: [dotenv@17.2.3] injecting env (0) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+2025-11-08T13:44:17: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+2025-11-08T13:44:17: [dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2025-11-08T13:44:17: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:44:18: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+2025-11-08T13:44:18: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔑 add access controls to secrets: https://dotenvx.com/ops
+2025-11-08T13:44:19: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:44:19: [dotenv@17.2.3] injecting env (0) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+2025-11-08T13:44:19: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:44:19: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+2025-11-08T13:44:20: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:44:20: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:44:21: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+2025-11-08T13:44:21: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+2025-11-08T13:44:22: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:44:22: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+2025-11-08T13:44:22: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔄 add secrets lifecycle management: https://dotenvx.com/ops
+2025-11-08T13:45:01: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+2025-11-08T13:45:01: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:45:01: WhatsApp Gateway Server running on port 3000
+2025-11-08T13:45:01: API Documentation: http://0.0.0.0:3000/
+2025-11-08T13:45:01: Using Baileys v2,3000,1027934701, isLatest: true
+2025-11-08T13:45:13: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:45:13: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+2025-11-08T13:45:14: WhatsApp Gateway Server running on port 3000
+2025-11-08T13:45:14: API Documentation: http://0.0.0.0:3000/
+2025-11-08T13:45:14: Using Baileys v2,3000,1027934701, isLatest: true
+2025-11-08T13:45:14: QR Code for default:
+2025-11-08T13:45:14: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+2025-11-08T13:45:14: █ ▄▄▄▄▄ █▀█ ▀▀ █▄█  ▄▀▄█   █▄█▄ ▀▄██▄ ▀▀▀▀▄ ▀██ ▄▄▄▄▄ █
+2025-11-08T13:45:14: █ █   █ █▀█▄▀  █▄▀▄▀██▄██ ▄█ ▄██ █▄▄▀ █ ▄▄▀▀▄▀█ █   █ █
+2025-11-08T13:45:14: █ █▄▄▄█ █▀█▄██▀▀██▀▀ █ ▄▄ ▄▄▄ ▄  ▀██▀ ▄▀ ▀  ███ █▄▄▄█ █
+2025-11-08T13:45:14: █▄▄▄▄▄▄▄█▄▀▄▀ █ ▀ █▄█▄▀ █ █▄█ ▀▄█ ▀▄█▄█▄█ █ █ █▄▄▄▄▄▄▄█
+2025-11-08T13:45:14: █   ▄▄▀▄  █▄  ▄▄▄▀  ▄▄▄▀▀▄▄▄▄▄ ▀▄▀▄█   █▀▀ ▀▄▄▄█ █▄█▄██
+2025-11-08T13:45:14: █ ▄█▄█▀▄▀█▀▄▄▄▄█▄  █▀▀█▀▀▀ ██▀████ ▀█ █ ▀▀███   ▀█▄▄█▀█
+2025-11-08T13:45:14: ███  ▀ ▄  ▄▀▄▄ █▄█  ▄▄▀▀  ▀▀█▀▀▀▄█▄█▄▄ ██▀▀▀ █▀██▄█ █▀█
+2025-11-08T13:45:14: ███▄▄  ▄██▀▄ ▄▀██▄██▀██▀█▀▀▄▀▀██▀▀▄ █▄█   ▀▄▄█▄ █▄▀▄▄▀█
+2025-11-08T13:45:14: █  ▄▀▀ ▄▀███▄▀▀█▀█  ▀█▄▀ ▄▄ █ ▀ ▄▀█▄   ▄▀█  ▀█▄██ ▀ █▀█
+2025-11-08T13:45:14: █▀█▀█▄▄▄  ▀▀██ ▀▀█▀ ▄██    ▄ █▄█▀▀  ▀▄ ▀  █  ▄█▀▀▀ ▄▄██
+2025-11-08T13:45:14: █ ▄▄▀ █▄▀█▀▀▄  ▀██ ▄▀▄█▀▀▀▀▄▀▀  ▀▀▄▄  ▀███ ▀▄▄█▄▄ ▀  ██
+2025-11-08T13:45:14: █▀ ██  ▄▄▀▄█▄▀▄ ▀█  █▄▀▀▄▀ █▀▀ ▀▄▄▀▀▀██▄▄▄█ ▄▄▀▄ ▀▀██▀█
+2025-11-08T13:45:14: █ ▀▀  ▄▄▄ █▄▄█▄▄▄▀▄▄▄▄▀▀▄ ▄▄▄ ▀  █▄██  ▄█▀ ▀  ▄▄▄ ███ █
+2025-11-08T13:45:14: █ ▀▀▀ █▄█ █▀ ▀ ▀▄   ██▀▀  █▄█ ▀ █ ▄▄   ▄█ ▄▀▄ █▄█  █▀██
+2025-11-08T13:45:14: █ ▄▀▄▄▄▄ ▄▄▀█▀▀▀▀▄▄▄ ▄▀█ ▄▄▄ ▄ ▀▄█▄▄   █ ▀  █     █  ▀█
+2025-11-08T13:45:14: █▄ ▄▄█ ▄▄  █▀▀▀██▄▀▄▄██ ██  ▀▄██▀ █▀ ▄▄▄▀▀▀ ▀ ████ ▄ ██
+2025-11-08T13:45:14: █ ▀  █▄▄▀   █ ▀█▀█▀▄ ▄▄▀▀▀▀▀▀█▄ ▀▀▄▄ ▄▀▄▄█▀▀█  ▀█▀▄▄▀▄█
+2025-11-08T13:45:14: ██▀▀ ██▄▀▄▄██▄▄▀▀█ ▄█▄█▄▀█▀▀██▄█ ▀  ▀█▄█▄ █  ▄██ ▄ ▄▀▀█
+2025-11-08T13:45:14: █▀█▀▄▄ ▄█▄▀███▄██▄▄  █▀███ ▀█▄▄ ▄█▄█▄▄█▄███▀██▄▀▀ ▄▀ ▀█
+2025-11-08T13:45:14: █▄▄ ▀▄█▄   █▀▀▄ ██ ▀  ▀▀█ ███▄██  ▄██ ▄  █▄▀▄▀██ ▄▀▄███
+2025-11-08T13:45:14: █▄▀▄██▄▄▄ █▄▄█▄▄▄▀█ ▀█▄▀▀▄ █ █▀ █▀█▄  ▀██▀▀▀▀█  ▄▀▄▀▄ █
+2025-11-08T13:45:14: █▄ ▀▄▄▄▄██  ▄▀▀█▄  █▀█▀▄▀█▀█▀▄ ██▀  ▄▄▄▄▄▀█▄▀▀███▄▀▄▄██
+2025-11-08T13:45:14: ████▄██▄█▀ ▀▄▄███▄ ▄▀▄██▀ ▄▄▄  ▀▀█ █▄▄▄▄█▀▀ █ ▄▄▄ ██▄ █
+2025-11-08T13:45:14: █ ▄▄▄▄▄ █▄ ▄▀▄▀  ▄▄█ █▄█▀ █▄█ ██  █▄▀▄ ▄▄  ▄▄ █▄█ ▀█▄██
+2025-11-08T13:45:14: █ █   █ █ ▀▄▀▀██▀█▄▀ █▄▀█▄ ▄ ▄   ▀▄▄█  █▀▀▄▀▄▄  ▄▄ ██▄█
+2025-11-08T13:45:14: █ █▄▄▄█ █ ▀   ▀ ▀█▀▀▄▄ ▀▄▀▀█▄ ▀  ▀██▄▄▀▄▀█▄▀ ▀██▄ ██▀▄█
+2025-11-08T13:45:14: █▄▄▄▄▄▄▄█▄▄█▄▄▄██▄█▄▄▄▄█▄▄▄▄██████▄█▄▄▄███▄▄▄█▄█▄▄▄▄███
+2025-11-08T13:45:14: 
+2025-11-08T13:45:38: Shutting down WhatsApp Gateway...
+2025-11-08T13:45:38: WhatsApp connection closed for default
+2025-11-08T13:45:38: Logged out for default. Please scan QR again.
+2025-11-08T13:45:38: Logged out default
+2025-11-08T13:45:38: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+2025-11-08T13:45:39: [dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+2025-11-08T13:45:39: WhatsApp Gateway Server running on port 3000
+2025-11-08T13:45:39: API Documentation: http://0.0.0.0:3000/
+2025-11-08T13:45:39: Using Baileys v2,3000,1027934701, isLatest: true
+2025-11-08T13:45:39: QR Code for default:
+2025-11-08T13:45:39: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+2025-11-08T13:45:39: █ ▄▄▄▄▄ █▄█ ▄ ▀▀██▀▄ █ █ ▄▄█▄▄▄▄▀▄██▄█ ▀▀█  █▄ ▄ ██ ▄▄▄▄▄ █
+2025-11-08T13:45:39: █ █   █ █ ▄ █  ▄▄▄▀ ▄█▀▄▀▀ █▀███ ██▄▀ ▀▀▄█ ▄ █▀▄ ██ █   █ █
+2025-11-08T13:45:39: █ █▄▄▄█ █▄▀▀███ ▀▀▀▄ ▀▀▄ █▀ ▄▄▄ ▄█ ▀ ▄    ▀█▀▀▄▀▄██ █▄▄▄█ █
+2025-11-08T13:45:39: █▄▄▄▄▄▄▄█▄▀▄▀▄█ █▄▀▄▀▄▀ ▀▄█ █▄█ ▀ ▀ █ █ ▀ █▄▀▄█▄█ █▄▄▄▄▄▄▄█
+2025-11-08T13:45:39: █   ▄██▄█ ▀▀ ██▀██ ▀▀█▄ ▀▀█▄▄    █ ▄▀▀███ ▀  ▀▄▄   █▀▄▄ █▄█
+2025-11-08T13:45:39: ██▄█▀  ▄▄▄███▄ ▀▀▀ ██ ▄▄▀▄▄█ ▄  █ ▀█ █ ▀ ▄█ ▀▀ ▀███▀▀▀ ▄  █
+2025-11-08T13:45:39: ██  ▀▀▀▄█▀▀▀▄█▄ ▀▄█▄ ▀█▄ █▀█ ██▀ ▀ █  █ ████▀█▀█▄█ ▀▀▀█▄ ██
+2025-11-08T13:45:39: ██▀ █▄ ▄▀▄ ▄ ▄ ▀  ▄█▀█▄ █▄▀▄▀▄▀▀▄▀█ ▀▀▀▄▄  ████▄ █▀█▄▀  ▀▀█
+2025-11-08T13:45:39: █   ▀ ▀▄█ ▄▀▀█  ▀▀ ▀ █▀█▀▄  ▄▄ █  ▄▀█▀▀▄██ ▄▄ ▀ █▄▄▄▄▀ █ ▄█
+2025-11-08T13:45:39: ███▄ ▄█▄▀▄▄ ▄▄▀▀ ▀█  ▀▀   ▄▀█▄▀▀▀ █ █▄▄▄▀▀ ▀▄▀▀ ▀ ▄▀▄ ▀▄ ██
+2025-11-08T13:45:39: █▄▄ ▄█▀▄▄█     ██ ▄████ ▀█     ▀█▀██▄▀▀█ ▄█▀▀██▄▄  ▄▄▄  ▀▀█
+2025-11-08T13:45:39: ██▄ ▄ █▄ ▀▀    ▀▀▄▄  ▄ ▀  █▀▄▀ ▀ █▀█▄█▀█▄██ ▀▀▀▀▀▄▀▀ ▀ ▄█▄█
+2025-11-08T13:45:39: █ █  ▀▀▄█ █▄█▄▀█▀▄█ █ ▀▀█▄██▀▀ ▄▄▄  ▄ ▀▀ ▀██▄█▀▄█▄▀ █▀ █  █
+2025-11-08T13:45:39: █ ▀ ▄ ▄▄▄ ▄▀██ █▀ ▄▄▀▀█▄▀▀█ ▄▄▄ █ █▄▀▀███▀  ▀▀▀ █ ▄▄▄ ▀▀███
+2025-11-08T13:45:39: █ ▀█▀ █▄█ ▄ ▀▄▀▄▀▀█▄ █▀▀▀▄█ █▄█     ██▀█▄▀▀█▄ █ ▀ █▄█ ▄▀█▄█
+2025-11-08T13:45:39: █▄█▀▄▄ ▄▄  ▀▄▀▀▀ █  ▀▀██▀██ ▄   ▀▄▀ █▀▄▄▄████▄▀▄█ ▄▄  █▄▄▀█
+2025-11-08T13:45:39: █▄█▀██▄▄█ ▄█▄█▄▄█▄▄█ ▄▄▄ ▀█▄▄▄▀▀██ ▄▀█ █▄  ▀▀▀▄██▄▀▀▀█▄█▀ █
+2025-11-08T13:45:39: █▄▀▄█▄▄▄▄ ▄▀▄█ ███ ▀▄▀██▀ ▄▀▀▀ █▀▄▀▄▀▀▀▀ █▀█▄ ▄ ▀▄ ▄█▀▀█  █
+2025-11-08T13:45:39: █ ▀█ █▀▄ ▄ █▄█▀▀██▄▄▀█▀▀ ▄▄███▄  ▀▀█ ▄ ▀▄▀▄▄▀▀▀▄█  █▀▄▄▄█▄█
+2025-11-08T13:45:39: █▄▄█ █ ▄ ██▄ ▀▄▄ ▄▀   ▄▄▄▀█▄ ▄▄▀▀▄▀█▀ █▄▀ ▀ ▀▀▄▀ ████ █▀█▄█
+2025-11-08T13:45:39: ██▄▀ ▄▀▄  █▄█▄▀▄▀ ██ █▄▀█▄▀   ▄ █▄▄▀█▀▄███▀██  ▀ ▄█   █ █ █
+2025-11-08T13:45:39: ██▄▄▄▄ ▄ █████▄▄▀▀█▄ ▄█ ▄▄██▀▄▄ ▀███▄ █▄ ▀ ▄▄█▄▀▀ ▄▀█▄██▄██
+2025-11-08T13:45:39: █▀▀ █  ▄█▀█▀ █▄█▄█▀▀█▄ █▀ ▄▄▀█▀▄██▄▄▀▀ ██▄ ▀▀█▄▄▀█▀▀█▄▄ ▄ █
+2025-11-08T13:45:39: █ ▀ ▀▀▄▄██  ▀▀ ▄█▀▀▀   ▀▄▄▄███▀██  ▄ ▄▄▀█▄██▀▀█▄ ▀▄  █▀▄ ▄█
+2025-11-08T13:45:39: ███████▄▄▀ ▄▀▄█ ▀█ ▄▀▀█████ ▄▄▄ ▀█ █ ▄▀ ▀█▄▄ █ ▄█ ▄▄▄ ▀█▄▄█
+2025-11-08T13:45:39: █ ▄▄▄▄▄ ███   ▀██  █ ██ ▄▀█ █▄█ ██▀▀ ▀▄▀▀▄▄▄ ▀ ▀█ █▄█ ▀ ▀▀█
+2025-11-08T13:45:39: █ █   █ █▀▀▄▀ █▀▀█ ▀ ▄▀█ ▀▄▄▄    ▄▄▀▀▀▄▄ █▀█▄ ▀ █ ▄▄ ▄ ▄ ▄█
+2025-11-08T13:45:39: █ █▄▄▄█ █ ▄▀▄██   █▄▄▀▀▀█▀ ▀▀▀█▀▄▀▀ ▀▄▀▄ █ ██ █ ▄  ▀▄█▄▄█▀█
+2025-11-08T13:45:39: █▄▄▄▄▄▄▄█▄▄███▄▄██▄█▄▄▄▄▄▄▄█▄▄███▄██▄███▄▄▄▄███▄▄▄▄██▄█▄███
+2025-11-08T13:45:39: 
+2025-11-08T13:46:27: Shutting down WhatsApp Gateway...
+2025-11-08T13:46:27: WhatsApp connection closed for default
+2025-11-08T13:46:27: Logged out for default. Please scan QR again.
+2025-11-08T13:46:27: Logged out default
+2025-11-08T13:46:28: [dotenv@17.2.3] injecting env (0) from .env -- tip: 👥 sync secrets across teammates & machines: https://dotenvx.com/ops
+2025-11-08T13:46:28: [dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+2025-11-08T13:46:28: WhatsApp Gateway Server running on port 3000
+2025-11-08T13:46:28: API Documentation: http://0.0.0.0:3000/
+2025-11-08T13:46:28: Using Baileys v2,3000,1027934701, isLatest: true
+2025-11-08T13:46:29: QR Code for default:
+2025-11-08T13:46:29: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+2025-11-08T13:46:29: █ ▄▄▄▄▄ █▄▄▀▄▄ ▄███▄ ▀▀▀ ▄ █▀▀  █▄█▀▄ ▄▀▄█  ▀▀ ▄ ██ ▄▄▄▄▄ █
+2025-11-08T13:46:29: █ █   █ █ ▀▄▀▀██▄▄  █▄█▄▀  ██▄█▄ ▄▀█▀▀█▄ █▄█▀▄▀▄ ██ █   █ █
+2025-11-08T13:46:29: █ █▄▄▄█ █▄ ▀ ▄ █▀▀ ▀ ▀█  █▀ ▄▄▄   ▀█▄█▄ ▀ ██ ▄▄▀▄██ █▄▄▄█ █
+2025-11-08T13:46:29: █▄▄▄▄▄▄▄█▄▀ ▀ █▄█▄▀▄▀▄▀▄▀▄█ █▄█ ▀ ▀ █ █▄▀▄█ █▄█ █ █▄▄▄▄▄▄▄█
+2025-11-08T13:46:29: █  ▄ ▀█▄▀▄▄█▄▄█▀▄▄ █ ▄ ▄▄ █ ▄▄   █ ▄▀▀▀█▄▄▀▀▀▀█▄  ▄█▀ ▄ █▄█
+2025-11-08T13:46:29: █▀ ▄ ▄ ▄▀█ ▀ ▄ ▀█▄ ██ ▄▄▀██▄▄█ ▀▀▄▀█ █ █▄▀▀▄▀ ▄▄▄ ▄█   ▄  █
+2025-11-08T13:46:29: ██▀▄▄██▄  ▀▀▄▀▄  ██▄ ▀█▄██ ▄███▀▄▀ █   ▀▀▀█▄▄▀▄█ █  ▀▀█ █▀█
+2025-11-08T13:46:29: █▀ ▀▄█▄▄█  ▄█ ▀▀ ▄▀█▄▄▀██▄▄█ ▄██▄▄█ ▄▄▄███ ▄▄▄ ▀ ▄ ▀ █ ▀███
+2025-11-08T13:46:29: █▄▄▄▄▀▀▄█▀▀▄▀█▄▄▀▀▀██▄ █▀▄ █▄▄█▄▄▄▄ ▀█▄█▄██▄▄▄ ▀█▄▄█▄██▀ ██
+2025-11-08T13:46:29: █▀▀ ▀▄▀▄  ▀█▄▄▀▀ █▄ █ ▄▀▄██▀█ ▀▀ ▀█▄█ ▀▀▄█▄█ █▀▀▄▄█▀███▄ ▀█
+2025-11-08T13:46:29: ███▀ ██▄█  ▀▀  ██ ▄▀██▄ ▀█▀  ▄▀ ▀█▄▄▀▀ ▄    ▀██▄▄ ▀█▄ ▀█ ▀█
+2025-11-08T13:46:29: █ ▄ ▀ ▄▄▄▄█▀   █▀▄▀█ ▄ ▀  █▀ █▀  ▄▀█▄█▀██▀▄ ▀▄█ ▀███▄████▄█
+2025-11-08T13:46:29: █ ▄███▄▄  ▀▀▀▀▄▄ █▄ █ ███▄▀▀██▄▄▄▄  ▄  ▀██▄▄▄▀ █▄▄▀ █▀ █ ▄█
+2025-11-08T13:46:29: █▀█▀█ ▄▄▄ ▄ ▀█▄▀  ▄▄▀▀█▄▄▀█ ▄▄▄ ▀▄▀ ██▄█▀█▀▀ ▄█▄  ▄▄▄ ▀▀ ▀█
+2025-11-08T13:46:29: █▀▄▄  █▄█  ▀██▀█▀▀█▄▄▄▀▀▀██ █▄█ ▄ █ █▀▄▄ ▀▀▄ ▄  ▄ █▄█ ▀▄ ▄█
+2025-11-08T13:46:29: █ ▀█▀ ▄▄▄▄█▄ ▄  █▀▄ ▀▄ █ ██ ▄ ▄ ▀█▀ ▀ ▀▄ ▄█▄▀██ ▀ ▄▄▄ ▄▄ ██
+2025-11-08T13:46:29: █▀▄  ▀▀▄██ █ ▄▄ ▄█ █▀█ ▄▀ ▄ ▄█▀▀ ▀ ▄▄▀ ▄ ▄▀ █▀▄▄█▄ █▀█▄█▄██
+2025-11-08T13:46:29: █ ██ ▄▀▄▀▄▀▄ ▄▀    ▀ ▀▄▀██▀▀▄  █▄ ▀▄█▄ ▄▀▄ ██▀█▄█  ▄█▄ █▄▄█
+2025-11-08T13:46:29: ████▀  ▄  █▄██ ▀██ ▄▀██▀ ▄█▄███▀▄█▀▄▄▄  ████▄█▀▄▀█ █▀███▄▄█
+2025-11-08T13:46:29: █▄▀█▀█▄▄ ▄ ▄▄▄▀▄ ▄▄▀  ▀ ▄▀▄▄ ▄ █▀▄▀▄  ▀▀ ▄▀ █ █▀▄██▀█▄▄ █▄█
+2025-11-08T13:46:29: █▀▄▀▄▀▄▄ ▀▀██▄ █ ▀ ▀ █ ▀ ▄▀  ▀▄▄█▄▄▀█▀█▄ ▀▄▄ ▄  ▄█▄▀ ▀█ █ █
+2025-11-08T13:46:29: █▄▀  ▄▀▄▀▄█▄▄▀ ▄ ▀█▄▄▄█ ▄███▀▄ ▄███▀█ ▀▀▄ ▄█ ██    ▀█▄█▄▄▀█
+2025-11-08T13:46:29: █▀▀▄ ██▄▄█▀▄▀▄▀ █▄▀▀ █ █ ▀█████▄███▄███▄ ▄▀  ▀▀█▀▀▀█▄▄▀ ▄▄█
+2025-11-08T13:46:29: █ ▀ ▀▀▄▄▄█▄    ▀▀▄▄█▄▄██ ▄▀█ ██▀▀▀▀▄▄▀ ▀▀▄▀ ▀ ▄  ▀▄▄█▀ ▄ ▄█
+2025-11-08T13:46:29: ███████▄█▀▄█▄█▀█ █  █ ▀█▄█▀ ▄▄▄ ▄▀ █   ▀▄█▄█ ▀▀█▀ ▄▄▄  ██ █
+2025-11-08T13:46:29: █ ▄▄▄▄▄ ██▀ ▀▀▄▄██▄▄█▄▄ ▄▀█ █▄█ ▄█▄█▄███▄▄ █▄▄  ▄ █▄█  ▀███
+2025-11-08T13:46:29: █ █   █ █▀▀▄  ▄▄▀██▀ ▄ █ ▀ ▄▄   ▄   ▀█ ▄▄█ ▄ ▄▀▀█ ▄ ▄ █▄ ▄█
+2025-11-08T13:46:29: █ █▄▄▄█ █ ▄▄█▀ ▀  ▄ ▄▀ ██▀▄ ███▀▄▀▀ ▀ ▄▄▀█▀█▀▄▄▀▄▄▀ ▀▀█▄█▀█
+2025-11-08T13:46:29: █▄▄▄▄▄▄▄█▄▄██▄█▄██▄█▄▄▄▄▄▄▄██▄███▄██▄███▄▄█████████▄██▄████
+2025-11-08T13:46:29: 
+2025-11-08T13:47:29: QR Code for default:
+2025-11-08T13:47:29: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+2025-11-08T13:47:29: █ ▄▄▄▄▄ █▀▀▄▄▄ ▀█▄▄█▄ ▄▄▄▄  ▄▄  █▀ ▄ █▀   ▄▄▀▄█▄ ██ ▄▄▄▄▄ █
+2025-11-08T13:47:29: █ █   █ █▄▀▄ ▄ █▄▄██▀██▄▄████▄ ▀██▀█▄█ ▄██▀ ██▀▄ ██ █   █ █
+2025-11-08T13:47:29: █ █▄▄▄█ █ ▄▀  ▀▀██▀ ▀█▀▄▀▄  ▄▄▄ ▀██▀█▀█▄▄█▄▄█  ▀▄██ █▄▄▄█ █
+2025-11-08T13:47:29: █▄▄▄▄▄▄▄█ ▀▄▀▄█ ▀ ▀▄▀ █ ▀▄█ █▄█ ▀▄█▄█ █ █ █ █ ▀▄█ █▄▄▄▄▄▄▄█
+2025-11-08T13:47:29: █▄▄█ ██▄▄█▀▄▄▄ ▀▄▄█ █▄ ▄▀█ ▄▄▄▄▄██ ▄▄▄▄█▄▄▄▄▄▀█▄ ██▄ ▄▀▄ ██
+2025-11-08T13:47:29: █ ▀ ▄ ▀▄▀ ▀ █▄▀█▀ ▀▄▄▄   ▄▄▀▄▀▀   █▀▀▄██ █ ▀ ▄▄▄ █▄▀ █▀█▀▄█
+2025-11-08T13:47:29: ██▀▀█ █▄ █▀▄▄▀▄██ █▄ ▄ ▀██▀ ▄ █▀▄▄ ▀   █▄▄██▄▄▄  █ █▄ █▄█▄█
+2025-11-08T13:47:29: █ █▀▀█▀▄   ▄ █▄▀ ▄ █▀▄█  ▀▀█▀▄▄▄▀▄▄█▀█▀▄█▀▀ █ █ ▀██▀▀▄██ ██
+2025-11-08T13:47:29: █  ▄██ ▄▄██  ▄█ ▄▄ ▄▄▀▄▀▀▄▀▀  ▀██  ▄ ▄█▀██ ▄█ ▄▄▄██▀ ▀▄▀█▀█
+2025-11-08T13:47:29: █▄█▀ ▀▀▄ █▄ ▄▄▀▄██▄ ▄█▀▄███▄ █▀ ▄  ▀▀▄▀█▄▄▄▄█ ██▄▄▀   █▄▄ █
+2025-11-08T13:47:29: █▀ ▀ █ ▄   ▀█▀███ ▀▄ █▄ ▄ ▄  ▄▄█ ▀▄▄▀ █▄  ██▄▀█▄▀█▄█▄ ▄ █ █
+2025-11-08T13:47:29: █▀█▄██▄▄█ ▀▄▀▄▄ █  ▄▀ ▄█▀▀▄█▄▀ ▀▀ █▀▄▄ ▀▀▄█▀  ▀▄ ▄▀█▄█▄▄▄ █
+2025-11-08T13:47:29: █ ▄  ▀▄▄▄▀▀▄ ▄▀ █ ▄ ██  █▄█   ▄▄▄▀██▄  ▄  ▄▄▄▄█ █▄▀█▄▄ █ ▀█
+2025-11-08T13:47:29: █▄ ▀█ ▄▄▄ ▀▀▄▄█   ▀▀▄▀█▄▀▄▄ ▄▄▄ ▄▄▀▄  ██▀█▄▄█▄█ ▀ ▄▄▄ ▄▄█▀█
+2025-11-08T13:47:29: █ ██  █▄█ ▀█▄▄▀▄██▄██ ██ ▄  █▄█ █▄▄█▄   ▄█ █▀ ▄▄  █▄█  █▀ █
+2025-11-08T13:47:29: █▀▀▀ ▄ ▄▄▄ ▀ ▄ █ ▄▀ ▀▀█▄ █▄▄ ▄▄ ▀ ▄██  ▀██▄▄█ ▄ ▀ ▄▄  ██  █
+2025-11-08T13:47:29: █▀ ▀ ▀▄▄█▄ ██▀▀ ███ ▄█▄▄▄▄▀ ██▄▄█▀ ▄▀▄▄█▀ ▄▄ ▀██▄▀██▄█▀ ███
+2025-11-08T13:47:29: █▄▄▀▄  ▄ ██ ▀█ ▄▀▀▀ ▄  █▀█ ██▄▀▄▀▄█  ▀  █▄ █▄█  █▀▀  ▄▀▄█ █
+2025-11-08T13:47:29: █▀  ▄█ ▄ █ ▀▀▀ ▄   ▄▀  ▄ ▄█▀  ██ ▄▄▀▀▄ █ ▄██▄ ▄▀▀█  ▄ ███ █
+2025-11-08T13:47:29: █▀▄█▀█▀▄█▄▄ █▄▀▄ ▄▀▄█ ▀ ▀▄▀▄ ▄▀▄▄█▀▄▄▄▄▀▀▄▄█▀▀█▀▀  ▀█▄▀█ ▄█
+2025-11-08T13:47:29: █ ██   ▄▀█▀ ▄  ▄▄█▀ ▀▀▄█▀█ ▄▄███▄  █▄ ▄ ▄███▀ ▄▄█▄▄ ▄█▄█▄▄█
+2025-11-08T13:47:29: █▄▀██▀▄▄▀▀▀ █▀ ▄█▄█▄▄▀ █▄█▀ ▄▀ ▄█   █ ▀▄▀█▄█  ▄▀  ▀  ▀██▄▄█
+2025-11-08T13:47:29: █▄▄ ▄██▄▀▀█▀▄▀▄██▄▄▄██ ██▄ ▀██ ▀ ███  ▄█ ▄█▄█▀██▄▀█ █▄ █▀▄█
+2025-11-08T13:47:29: █ ▀ ▀▀▄▄▀▀ ▄▀▀▀██ ███ ▀█▀█ ▀▄▀▄  ██▀█ ▄██ ▀█▄▄██▀██  ▄██▀ █
+2025-11-08T13:47:29: ███████▄▄ ▀ ▄█▀ █▀  ▄█▄▄▄▄▀ ▄▄▄ ▄▄█ ▄ ▀█  █▄▄▄▀ █ ▄▄▄  ████
+2025-11-08T13:47:29: █ ▄▄▄▄▄ █▄▀ ▄▄▀▄ █▀▀█▄▄     █▄█ █▀▄█▄  ▄▄ █▀▄▀ ▀▀ █▄█ █▄ ▀█
+2025-11-08T13:47:29: █ █   █ █▀█ ▀ █ █▀▄ ▀ ▄▀▀ ▀ ▄   ▄ ▄▄ ▄▀ ▄█▀█▄ ███ ▄▄ ▄▄█  █
+2025-11-08T13:47:29: █ █▄▄▄█ █▀▀▄▄▄▀███▄ ▄▄█ █▀▄█▀▄█▀▄█▄█▀▀▄▀█▀▀█ ▀▀▄▄▄▀█▄ █▄█▄█
+2025-11-08T13:47:29: █▄▄▄▄▄▄▄█▄█▄█▄▄▄███▄█▄▄▄████▄▄▄▄▄▄███▄▄█▄▄▄▄▄███▄▄▄▄███▄▄██
+2025-11-08T13:47:29: 
+2025-11-08T13:47:49: QR Code for default:
+2025-11-08T13:47:49: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+2025-11-08T13:47:49: █ ▄▄▄▄▄ █▄▄▀▄▄ ▄▄▀▄█ █ ▀   █▀▀  █▄██ █▀██▀ ▄▀  ▄ ██ ▄▄▄▄▄ █
+2025-11-08T13:47:49: █ █   █ █ ▀▄█▀██▄█  ▄██▄ ▀ ██▄█▄ █▀█▄ █▄▄█▄█▀█▀▄ ██ █   █ █
+2025-11-08T13:47:49: █ █▄▄▄█ █▄ ▀▄▀ █▀▀ ▀ ▀█  █▀ ▄▄▄ ▀█▀█▄█▄ ▀▀██▄█▄▀▄██ █▄▄▄█ █
+2025-11-08T13:47:49: █▄▄▄▄▄▄▄█▄▀▄█ █▄█▄▀▄▀▄▀▄▀▄█ █▄█ ▀ ▀ █ █▄▀▄█ █▄█ █ █▄▄▄▄▄▄▄█
+2025-11-08T13:47:49: █  ▄ ▀█▄▀ ▀ ▄▄█▀▄▄ █ ▄ ▄▄ ▀▄▄▄   █ ▄▀▀▀█▄▄▀▀▀▀█▄ ▀ █▀ ▄ █▄█
+2025-11-08T13:47:49: █▀ ▄ █ ▄▄ ▄██▀ ▀█▄ ██ ▄▄▀█▄█▄▀ ▀▀▄▀▀ █▄█▄▀▀▄▀ ▄▄ ████  ▄  █
+2025-11-08T13:47:49: ██▀  ██▄█▄█ ▄▀▄  ██▄ ▀█▄██▀██▀█▀▄▀█▄  ▀ ▀▀█▄▄▀▀▄██  ▀█▀ █▀█
+2025-11-08T13:47:49: █ ▄███▄▄▄  ▄█ ▀▀ ▄█▄▄▄█ █▄▄█▀▄█▀▄▄ ▀ ▄▄ ▀█▄▄ ▄▀▄▀  ▀ █  ███
+2025-11-08T13:47:49: █▄█ █▀▀▄█▀▀▄▀█▄▄▀▀█▀▄▄▀█▀▄ █▄▄ ▄▄▄▄▀▄█▄▄▄▀▀█▄▄▄▀█▄▄█▄█▄▀ ██
+2025-11-08T13:47:49: █  ▄█ ▀▄  ▀█▄▄▀▀▀▄▄ ▀▀▄▀▀██▀█ ▀▀ ██▄▄▀ ▀█▄██ █▀ ▄▄▀████▄ ██
+2025-11-08T13:47:49: █▀█▀ ▄▀▄█  ▀▀▄ ██ ▄▀██▄ ▀█▀  ▄▀ █▀▄▄▄█ ▄    ▄▀█▄▄ ▄▄▄ ▀█▀▀█
+2025-11-08T13:47:49: █ ▄ ▀█ ▄  ▀▀█▀█ ▀▄▀█ ▄ ▀  █▀ █▀ ▀▄▀██▄▀██ ▄ ▀██ ▀█ █▄▀███▄█
+2025-11-08T13:47:49: █ ▄██▀█▄▀█▄▄█▀█▀ █▄ █ ███▄████▄▄▄▄  ▄  ▀██▄▄▄▀ ██▄▀ ▀▀ █ ▄█
+2025-11-08T13:47:49: █▀█▀█ ▄▄▄ ▀█▄█▀   ▄▄▀▀█▄▄▀▀ ▄▄▄ ▀▄▀▄██▄█▀█▀▀ ▄▀▄▀ ▄▄▄ ▀▀ ▀█
+2025-11-08T13:47:49: █▀▄▀▄ █▄█ █▄██▀█▀▀█▄▄▄▀▀▀██ █▄█ ▄   █▀ ▄ ▀▀█ ▄▀ ▄ █▄█  ▄ ▄█
+2025-11-08T13:47:49: █  █▀ ▄▄▄▄█▄ ▄  █▀█▄▀▄▀█ ██ ▄ ▄ ▀█▀▀▀   ▄▄█▀█▀▄█▄▄▄▄  █▄ ██
+2025-11-08T13:47:49: █ ▄▀ ▀▀▄ ▀ █ ▄▄  █▀█ ▄  ▀ ▄ ██▀▀ ▀ ▄ █ ▄▄ ▀ ▀█▄▄█  ██▄█▄ ▀█
+2025-11-08T13:47:49: ██▀▀▀▄▀▄█▀▀▄ ▄▀  ▀ ▀▄ ▄▀  ▀▀▀▄ █▄ ▀▄▄▀▀▄██ ▄▄ █▄█  ▄ ▄ █  █
+2025-11-08T13:47:49: █▄ █▀  ▄  █▄ ▄ ▀██ ▄▀██▀ ▄█▄██▀▀ █▀▄▄   ████ ▀▀▄▀█ █▀██████
+2025-11-08T13:47:49: █▄▀█▀█▄▄ ▄██ █   ▄▄▀  ▀ ▄▀▄▄ ▄▄▀▀█▀▄ ▀▀▀ ▄▀ █▀█▀▄██▀█▄▄ █▄█
+2025-11-08T13:47:49: █▀▄▀▄▄▄▄ ▀   ▄▀▄ ▀ ▀ █ ▀ ▄▀  ▀▄▄█▄▄▀█▀█▄ ▀▄▄ ▄  ▄██▄ ▀▀ █ █
+2025-11-08T13:47:49: █▄▀  ▀ ▄▀▄▄▀█▄▄▀ ▀█▄▄▄█ ▄█▀█▀▄ ▄███▀█ ▀▀▄ ▄▀ ██▄ ▀▄██▄▄▄▄▀█
+2025-11-08T13:47:49: █▀▀█▄▄▀▄██▀█▀▄█▄█▄▀▀ █ █ ▀▄▀███▄███▄██ ▄ ▄ ▀ ▀ ▄▀▄▀ █▄█▀▄▄█
+2025-11-08T13:47:49: █ ▀ ▀▀▄▄█▄▄    ▀▀▄█▀▄▄█▄ ▄▀█ ██▀▀▀▀▄ ▀█▄█ ▄▄█      ▄▄█▄▄ ▄█
+2025-11-08T13:47:49: ███████▄▄ ▄█▄█▀█▀█  ▀ █▀██▀ ▄▄▄ ▄▀ ██▄█▀▀▀▄█ ▀ ▄█ ▄▄▄  █▀▄█
+2025-11-08T13:47:49: █ ▄▄▄▄▄ ██▀ ▀▀▄▄█▀▄▄▀▀▄ ▀▀█ █▄█ ▄█▄█ ██▄▀█▀▄ █  █ █▄█  ▀▀██
+2025-11-08T13:47:49: █ █   █ █▀▀▄▀▀▄▄▀██▀ ▄ █ ▀ ▄▄▄   ▄  ▀▀ ▄▄▀ ▄▄ ▀▀█ ▄ ▄▄█▄▀▄█
+2025-11-08T13:47:49: █ █▄▄▄█ █   ▀▄▄▀  ▄ ▄▀ ██▀▄ ███▀▄▀▀  ▀▄▄▀█▀█▀█▄▀▄▄▀  ██▄█▀█
+2025-11-08T13:47:49: █▄▄▄▄▄▄▄█▄█▄██▄▄██▄█▄▄▄▄▄▄▄█▄▄███▄██▄███▄▄█████████▄▄▄▄████
+2025-11-08T13:47:49: 
+2025-11-08T13:48:09: QR Code for default:
+2025-11-08T13:48:09: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+2025-11-08T13:48:09: █ ▄▄▄▄▄ █▀ ▀  ▀▀▀▀ ▀█▀█ ▄  ▀█▀▄▄█ █▀▄▀▄█ ▄▄ ▄▄▄▄ ██ ▄▄▄▄▄ █
+2025-11-08T13:48:09: █ █   █ █▀ █▀ ▄█▄█ ▀██▄█▀▀▀█▄███▀▄ ▄  ▄▄▀▄▄▄▀▄ ▄ ██ █   █ █
+2025-11-08T13:48:09: █ █▄▄▄█ █▀▀█▀█▄▄▄█▀▄▄  ▄▀ █ ▄▄▄ ▀ ▄▀█▀ ▀▄▄▄  ▄▀▀▄██ █▄▄▄█ █
+2025-11-08T13:48:09: █▄▄▄▄▄▄▄█▄█▄█▄█ ▀▄█ ▀ █▄█ █ █▄█ ▀▄█ ▀▄█ █▄▀▄█ ▀ ▀▄█▄▄▄▄▄▄▄█
+2025-11-08T13:48:09: █  ▄  ▀▄▄▄█  ▄▄▀██ ▄▀▄▀█▄▀ ▄▄▄  ▀█▀█▀  ███▀  ▀▄█   █ █▄▀▄██
+2025-11-08T13:48:09: █▄▄██▀ ▄▄▀▄▀█▀▄   ▀ ▀▀▀    ███▀▄██ ▀▀  ▄▀█▄▀█▀█▄ ▀ █▄ ▀▀▄▀█
+2025-11-08T13:48:09: █▀▀▀ █▀▄   ▀ █▄▄▄█▀  █▀▄▀▀▀ ▀█▀█▄█ █▄▄▀██▀ ▀▄██▄▀  ▄██▀▄███
+2025-11-08T13:48:09: █   █▄▄▄▄ ▀██▀ ▀▀█▄ █▄▀█████ ▄█▄█▄█▄▄▀▀▄▄▄ ▀█  ▀▀▀▀▀ █  ▄██
+2025-11-08T13:48:09: █▀ ▀██ ▄▀ ▄    █▄▄  ▄▄██▄▀▄▄▀ ▀  █▀▄▄ ▀▄█▀   █▄▄▄▀ ▄▀▀▄█▄▄█
+2025-11-08T13:48:09: █ █▀▀ █▄ ▄██  ▀█▀█ ▄▄█ ▀▄ ██▀ █▄▄█▀▄██▀▄█ ▀ ▀██▀  ██▀█▀ ▄▀█
+2025-11-08T13:48:09: ██▀▀▀▀▀▄▄ ▀ ▀▄▀█▄▀▄ ▄██▀▀▄  ▀█▀▀▄▀██ ▄▀▄█▀ ▀ █▄█▄▀ ▄█▀▀▄ ▀█
+2025-11-08T13:48:09: ██ ▀▄█▀▄▄█▀█▄ ▄█▄   ▄███▀█▀ █▀ ██▄▄▀▄ █▄ ▄███▄ ▄  ▄█▀▀▄ ▀██
+2025-11-08T13:48:09: █▄▄▀▀ ▄▄▄ ▀█▄ █ ▄█ ▄█▄▀█▀ █▀▀█  ▄ ▄  ▄ █▀█  ▄█▄█▀▀▀██▀▄▀  █
+2025-11-08T13:48:09: █ ▄▀▄ ▄▄▄ █▄▀▄▄▄▀▀▄█ ▀▄█▄ █ ▄▄▄  ▄ ██▄▀█ ▄█ ▀▄▄█▀ ▄▄▄ █ ▀▀█
+2025-11-08T13:48:09: █▄ ▄█ █▄█  ▀▄ ██▄█▄▀ █▄█  ▀ █▄█  ▀██▄▄▀▄███ ▄██▄█ █▄█  ▀▄██
+2025-11-08T13:48:09: █▀▄ ▀▄▄▄ ▄▀▄▄  ▄▀▀█▀▀ ██▄▀▄    ▄▀▀▄ ▀ ▀▄   ▀▀▀▀▄█▄   ▄▀  ▀█
+2025-11-08T13:48:09: █ ▀██ ▀▄▄ ▀▄ ██ █▄   ▄██  █ ▄█▀ ▀▀▀█ ▄ █▄▀█ ▄█▄▄▀▀▀████▄▀▀█
+2025-11-08T13:48:09: █▄▄▀   ▄ █▄ ▀▀█▀ █▀▄ ▄▀█▀▄█  ▀▀ ▄▀▄   ██ █ ▀▄▀▀ ██▄█▀▄▀ ▀▀█
+2025-11-08T13:48:09: ███▀█ ▄▄ ▄▀▄▀▄ █▀█▄ ▀▀▀▀▄ █ ▀██▀▄██▄▄▄ ▄▀█▀▀▄██▄█▀ ▀██▀▀▄▀█
+2025-11-08T13:48:09: ██ █ ▄▄▄▀▄█▀  ▄█▀█▄ ▀  ▀▄ █▄▀█ ▄ ▄ █   ▀▀█▀▀▄▀▄ ▄▄▄▀▄█▄▀▄▄█
+2025-11-08T13:48:09: █▄  ▀▀▀▄▄ ▄▄█▄▄ ██▀▄▄▄██▀▀█▀███▀▀█▀█▄▄▀████▀▄██▄█ ████ ▀▀▀█
+2025-11-08T13:48:09: █ ▀▄▄██▄▀ ▄▀█▄▀ ▄▀▀ ▄ ▀  ▀█▀█▄▄ █▀▀▀▀▄▀█  ▄▀ ▀█▄▄▄▀▀▀▄▀▀▄██
+2025-11-08T13:48:09: █  ▄▄▀█▄ ▀  ▀█▀ ▄█▀ ▀█▀▄  ▄█▄▄██▄█▄██▄▀█▀██▀▀▀██▀▀█▄▀▄█▄█▄█
+2025-11-08T13:48:09: █ ▀ ▀▀▄▄██▀▄▀█▄ ▄ ▄  █  ▀▀▄ █▀▄▄█ ▄ ▀ ▄▄▄▄ ▀█▀ ▄█▄▄██▄  ▄██
+2025-11-08T13:48:09: ███████▄█▀ █ ▀▀▀██   ▄▀█▀ ▀ ▄▄▄ ▄█▄█▄▄ ▄██ ▀▄▀▄██ ▄▄▄ ▄▀▀ █
+2025-11-08T13:48:09: █ ▄▄▄▄▄ █▄ ▀▀ █▄▄█▄█▀▄█▀▄▄▄ █▄█ █▀█▄▀▄███ ▀▄██ ▀  █▄█    ▀█
+2025-11-08T13:48:09: █ █   █ █ ▄ █  █▄▀▄▄▄██▀▀▄▄▄ ▄ ▄▄██▄ ▄▄█ ▀▀▀ █▄██▄  ▄▄▄▀███
+2025-11-08T13:48:09: █ █▄▄▄█ █ ▀ █  ▄▄  ▄▄█▄█▀█▄▄▀▀▀█▄▄█ █▄▄ ███▀   ▀  ▀▄██▀ ███
+2025-11-08T13:48:09: █▄▄▄▄▄▄▄█▄▄█▄██▄▄▄▄▄█▄██▄███▄██▄▄▄▄▄▄▄▄████▄▄█▄▄█▄▄▄▄▄▄▄▄██
+2025-11-08T13:48:09: 
+2025-11-08T13:48:29: QR Code for default:
+2025-11-08T13:48:29: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+2025-11-08T13:48:29: █ ▄▄▄▄▄ █▀ ▀    █▀ ▀ ██ ▀▄ ▀█▀▄▄█ ██ ▄▀▀▀█▄ █▀▄▄ ██ ▄▄▄▄▄ █
+2025-11-08T13:48:29: █ █   █ █▀ █▀▄▄█▄█ ▀██▄█  ▀█▄███▄▄ ▄ ▀▄▄▄█▄▄ ▄ ▄ ██ █   █ █
+2025-11-08T13:48:29: █ █▄▄▄█ █▀▀█ ▀▄▄▄█▀▄▄  ▄▀ █ ▄▄▄ ▀▀▄▀██ ▀██▄ █▄▀▀▄██ █▄▄▄█ █
+2025-11-08T13:48:29: █▄▄▄▄▄▄▄█▄█ █ █ ▀▄█ ▀ █▄█ █ █▄█ ▀▄█ ▀▄█ █▄▀▄█ ▀ ▀▄█▄▄▄▄▄▄▄█
+2025-11-08T13:48:29: █  ▄ ▄█▄  ▄▄  ▄▀██ ▄▀▄▀█▄▀▄ ▄▄  ▀█▀█▀  ███▀  ▀▄█▄▀ █ █▄▀▄██
+2025-11-08T13:48:29: █▄▄██▀ ▄▄▄▀██▀▄   ▀ ▀▀▀   ▀▄██▀▄██▄█▀  ▄▀█▄▀█▀▀ ▄█▀▄▄▀▀▀▄▀█
+2025-11-08T13:48:29: █▀▀▄ █▀▄▄    █▄▄▄█▀  █▀▄▀▀ ▀▀█▀█▄███▄▄ ▄█▀ ▀▄█▄▄   ▄▀██ ███
+2025-11-08T13:48:29: █▄▄▀ ▄▄▄█ ▀██▀ ▀▀█▀▀█▄▄▀████▀██▄█▄▄▄▄███▄ ▀▄▀  ▄▀▀▀▀▀█▀▀▄██
+2025-11-08T13:48:29: █▄▀▄▄█ ▄▀ ▄    █▄▄▀▄ ▄▄▀▀▀▄▄▀ ▄  █▀█▄  ██▀  ▄▀█▄▄▀ ▄▀▀▄█  █
+2025-11-08T13:48:29: ██▀▄▄ ▀▄ ▄██  ▀█▀▀ ▄▀█ ▀▄███▀ ▄█▄█▀▄▀█ █▄▀  █▀█   ▀█▀█▀  ▀█
+2025-11-08T13:48:29: █▄▀▀▀█ ▄▄ ▀ ▄▀▀█▄▀▄ ▄██▀▀▄  ▀█▀▀ ▀██ ▄▀▄█▀ ▀ ▀▄█▄▀▀██▀▀▄ ▀█
+2025-11-08T13:48:29: ██ ▀▄ ▀▄ █▀ ▄▀▄▀▄   ▄███▀█▀ █▀ ██▄▄▀█ █▄ █████ ▄  ▄▀██▄ ▀██
+2025-11-08T13:48:29: █▄▄▀▀▀ ▄█▀▀▄  ██▄█ ▄█▄▀█▀ █▀▀█  ▄ ▄  ▄ █▀█  ▄█▄█▀ ███▀▄▀  █
+2025-11-08T13:48:29: █ ▄▀▄ ▄▄▄ █ █▀█▀▀▀▄█ ▀▄█▄ ▀ ▄▄▄  ▄▄▀█▄▀█ ▄▀▄▀▄▄██ ▄▄▄ ▀ ▀▀█
+2025-11-08T13:48:29: █▄ ▀▀ █▄█ █▄▄ ██▄█▄▀ █▄█  ▀ █▄█  ▀▄▄▄▄▀▄██▀ ▄█▄█▄ █▄█  ▀▄██
+2025-11-08T13:48:29: █ ▀ █ ▄▄▄ ▀▄▄  ▄▀▀▄ ▀ ▄█▄▀▄▄   ▄▀▀▄ ▀▄█▄▄ █▀█▀██▀▄  ▄▄▀▀ ▀█
+2025-11-08T13:48:29: ██▄██ ▀▄ ▀▀▄ ██ ▀▄ ▄▀▄██▀▀█ ▄▄▀ ▀▀▀█▄ ▄█ ██  ▀▄▄▀█▀██▄▄████
+2025-11-08T13:48:29: ██▀██  ▄ ▄▄ ▀▀█▀▀█▀▄▀▀▀█ ██ ▀█▀ ▄▀▄  ▄▄▄██ ▀ █ ▀▄█▄█ ▄▀  ██
+2025-11-08T13:48:29: █▀▀▀█ ▄▄ ▄▀▄█▀ █▀█▄ ▀▀▀▀▄ █ ▀█▀▀ ▀█▄▀  ▄▀█▀▀▄▀█▄█▀ ▀██▀▀▄▀█
+2025-11-08T13:48:29: ██ █ ▄▄▄▀▄█▄ █▀▀▀█▄ ▀  ▀▄ █▄▀█▄▄▀▄ █▀▀ ▀ ▄▀▀▄▀▄ ▄▄▄▀▄█▄▀▄▄█
+2025-11-08T13:48:29: █▄  ▀▄█▄▄ █▀    ██▀▄▄▄██▀▀█▀███▀▀█▀█▄▄▀████▀▄██▄█ ▄▀██ ▀▀▀█
+2025-11-08T13:48:29: █ ▀▄▄█▄▄▀ ▀▄█▄ ▄▄▀▀ ▄ ▀  ▀▀▀█▄▄ █▀██▀▄██  ▄█ ▀█▄ ▄▀▀▀▄  ▄██
+2025-11-08T13:48:29: █  ▄▀▄▀▄██▄ ▀█ ▀▄█▀ ▀█▀▄  ▄▀▄▄██▄█▄██▄▀▄▀█ ▀▀▀▄▄█▀ █▄█ ▀█▄█
+2025-11-08T13:48:29: █ ▀ ▀▀▄▄█ ▀▄▀█▄ ▄ ▀▄ █▄▀▀▀▄▀█▀▄▄█ ▄▀█ ▄▄  █▀▀█▀▀ ▄▄███▀▀▄██
+2025-11-08T13:48:29: ███████▄█▀ █ ▀▀▀██▀▄▀▄ ▀█▀▀ ▄▄▄ ▄█▄█▄▄▀▄▀▀▀▀ █▄▄▀ ▄▄▄ ▄ ▀ █
+2025-11-08T13:48:29: █ ▄▄▄▄▄ █▄ ▀▀ █▄▀▀▄█  █▀▄▀▄ █▄█ ███▄ ▄██▄▀▀▄▄▀  ▀ █▄█   ▄▀█
+2025-11-08T13:48:29: █ █   █ █ ▄ ▀▄ █▄▀▄▄▄██▀▀▄▄▄▄  ▄▄▀█▄▄ ▄█ ▀▀▀ ▀▄██▄   ▄▄▀█▄█
+2025-11-08T13:48:29: █ █▄▄▄█ █ ▀███▄▄▄  ▄▄█▄█▀█▄▄▀▀▀██▄█ ▄▄▄ █▄█▀▀▀ ▀  ▀▄▀▀▀ ███
+2025-11-08T13:48:29: █▄▄▄▄▄▄▄█▄█▄██▄█▄▄▄▄█▄██▄████▄█▄▄▄▄▄▄▄▄████▄▄█▄▄█▄▄▄▄█▄▄▄██
+2025-11-08T13:48:29: 
+2025-11-08T13:48:49: QR Code for default:
+2025-11-08T13:48:49: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+2025-11-08T13:48:49: █ ▄▄▄▄▄ █▄▄▀▄▄ ▄▀▀▄█▄▀ ▀ ▄ █▀▀  █▄▀▀██▀█ ▀▄    ▄ ██ ▄▄▄▄▄ █
+2025-11-08T13:48:49: █ █   █ █ ▀▄▀▀██▄█  ▄▄█▄ ▀ ██▄█▄ █▀█ ▀█▄██▄██▄▀▄ ██ █   █ █
+2025-11-08T13:48:49: █ █▄▄▄█ █▄▄█▄▄ █▀▀ ▀ ▀█  █▀ ▄▄▄ ▀ ▀█▄█▄ ▀▄██▀▀▄▀▄██ █▄▄▄█ █
+2025-11-08T13:48:49: █▄▄▄▄▄▄▄█▄▀▄▀ █▄█▄▀▄▀▄▀▄▀▄█ █▄█ ▀ ▀ █ █▄▀▄█ █▄█ █ █▄▄▄▄▄▄▄█
+2025-11-08T13:48:49: █  ▄ ▀▀▄█▄█▄█▀█▀▄▄ █ ▄ ▄▄ █▄▄▄   █ ▄▀▀▀█▄▄▀▀▀▀█▄▀▀▄█▀▄▄ █▄█
+2025-11-08T13:48:49: █▀ ▄ █ ▄  ▀▀ █ ▀█▄ ██ ▄▄▀███▄█ ▀▀▄██ █▄▀▄▀█ ▀   █▀▄██▀ ▄  █
+2025-11-08T13:48:49: ██▀ ▀██▄▄▀▀▄▄▀▄  ██▄ ▀█▄██▀▄█▀█▀▄▀ ▄  █ ▀▀▄▄▄▀█▄█▄  ██▀ █▀█
+2025-11-08T13:48:49: ██ ▀ █▄▄█▀ ▄█ ▀▀ ▄█▀▄▄▀██▄▄█▀▄█▀▄▄▄█ ▄█▄▀▀▄  ▄▄██▀ ▀▀▄ ▀███
+2025-11-08T13:48:49: █▄▀▄▄▀▀▄█▀▀▄▀█▄▄▀ █▀█▄▄█▀█ █▄▄▀▄▄▄▄ ▀▀▄▄▄▀▄▄▄ ▀▀█▄▄█▄█▄▀ ▀█
+2025-11-08T13:48:49: ██▀▄▀▄▀▄  ▀█▄▄▀▀ █▄ ▀ ▄▀▄▄█▀█ ▀▀ ▀█▄▄█▀ ▄█▄█ █  ▄▄▀████▄ ▀█
+2025-11-08T13:48:49: █▄▀▀ ▀█▄█  ▀██ ██ ▄▀██▄ ▀█▀  ▄▀ ██▄▄ █ ▄    ███▄▄  █▄ ▀█  █
+2025-11-08T13:48:49: █ ▄ ▀▄ ▄  █▄▀█▄ ▀▄▀█ ▄ ▀  █▀ █▀  ▄▀█▄█▀██▀▄  ▄█ ▀█▀█ ▀███▄█
+2025-11-08T13:48:49: █ ▄██▄ ▄▀▄▄▄▀ █  █▄ █ ███▄▀███▄▄▄▄  ▄  ▀██▄▄▄▀ ███  ██ █ ▄█
+2025-11-08T13:48:49: █▀█▀█ ▄▄▄  ▀  ▄█  ▄▄▀▀█▄▄▀█ ▄▄▄ ▀▄█▄██▄█▀█▀▀ ▄▀▄█ ▄▄▄ █▀ ▀█
+2025-11-08T13:48:49: █▀▄▄  █▄█ ▀▄██▀▀▀▀█▄▄▄▀▀▀██ █▄█ ▄   █▀██ ▀▀█ ▄▀▀▄ █▄█ █  ▄█
+2025-11-08T13:48:49: █ █  ▄▄▄▄▄█▄ ▄  █▀█▀▀▄ ▀ █▄ ▄ ▄ ▀█  ▀▄▄▀    ▀██▄▄▄▄▄▄▄▄▄ ██
+2025-11-08T13:48:49: ███▄█▀▀▄▄  █ ▄▄ ▄█ ▀▀█▄   ▄ ██▀▀ ▀ ▄▄█ ▄▀▄ ▀▄▀▄██▄ █▄███▄▀█
+2025-11-08T13:48:49: █▄▄█ ▄▀▄█▀▀▄ ▄▀ ██ ▀██▄▀ █▀▀██ █▄▄▀▄█▀ █▀  ▄█ █▄█  ▄██ █▄▄█
+2025-11-08T13:48:49: ██▄█▀  ▄  █▄█  ▀██ ▄▀██▀ ▄█▄██▄ ▄█▀▄ ▄  ████▄▀▀▄▀█ █▀██████
+2025-11-08T13:48:49: █▄▀█▀█▄▄ ▄▀▄▄▄▀  ▄▄▀  ▀ ▄▀▄▄ ▄▄█ █▀▄▀ ▀▀ █▀ █▀█▀▄██▀█▄▄ █▄█
+2025-11-08T13:48:49: █▀▄▀▄  ▄ ▀▀▄█▀   ▀ ▀ █ ▀ ▄▀  ▀▄▄█▄▄▀█▀█▄ ▀▄▄ ▄  ▄██▄ ▀█▄█ █
+2025-11-08T13:48:49: █▄▀    ▄▀▄▄ ▄▀██ ▀█▄▄▄█ ▄█▀█▀▄ ▄██▀▀█ █▀▄ ▄█ ██  ▀ ▀█▄▄▄▄▀█
+2025-11-08T13:48:49: █▀▀▀▀▀ ▄  ▀ ▀▄ ▄█▄▀▀ █ █ ▀█▀███▄███▄██▄█ ▄▀  ▀█▄█▄█ ▄▄ ▄▄▄█
+2025-11-08T13:48:49: █ ▀ ▀▀▄▄█▄▄    ▀▀▄▀█▄▄█▄ ▄▀▀ ██▀▀▀▀▄▄█ ▀█▄  █ ▀ ▄▀█ ▄█ █ ▄█
+2025-11-08T13:48:49: ███████▄█ ▄█▄█▀██▄▄▄ ▀█▀██▀ ▄▄▄ ▄▀ █▄▄█ ▀▀█▄▀████ ▄▄▄ ▀▄▀ █
+2025-11-08T13:48:49: █ ▄▄▄▄▄ ██▀ ▀▀▄▄ ▄▄▄▄▄▄  ▀█ █▄█  █▄████▄ █▀█ ▄▀▀▀ █▄█  ▀███
+2025-11-08T13:48:49: █ █   █ █▀▀▄▀▄▄▄▀██▀ ▄ █ ▀ ▄ ▄  ▄   ▀▀ ▄▄█ ▄  ▀▀▄ ▄ ▄ █▄▀▄█
+2025-11-08T13:48:49: █ █▄▄▄█ █  ▄▀▀█▄  ▄ ▄▀ ██▀▄ ▀██▀█▀▀ ▀ ▄▄▀█▀█ █▄▀▄▄▀ ███▄█▀█
+2025-11-08T13:48:49: █▄▄▄▄▄▄▄█▄█▄█▄▄███▄█▄▄▄▄▄▄▄█▄▄███▄██▄███▄▄█████████▄▄▄▄████
+2025-11-08T13:48:49: 
+2025-11-08T13:49:09: WhatsApp connection closed for default
+2025-11-08T13:49:09: Reconnecting for default...
+2025-11-08T13:49:14: Using Baileys v2,3000,1027934701, isLatest: true
+2025-11-08T13:49:15: QR Code for default:
+2025-11-08T13:49:15: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+2025-11-08T13:49:15: █ ▄▄▄▄▄ █  ██▀█▄▄▀▄ █▄█ ▄ ▀▄▄█▄▄ ▀▄█▄██ ▀█ ▄▄ ▀▄ ██ ▄▄▄▄▄ █
+2025-11-08T13:49:15: █ █   █ █ █▄█  ██▀▀▄██ ▀▄▄▀█▄▀▄▄▀▄▀  ▄█▀▀▀▄▄ █ ▄ ██ █   █ █
+2025-11-08T13:49:15: █ █▄▄▄█ █▀  ▀ ▄ ▀█▄█▀█ ▄▀   ▄▄▄  █▄▀▄ ▀▄█▄ ▄▀▀▄▀▄██ █▄▄▄█ █
+2025-11-08T13:49:15: █▄▄▄▄▄▄▄█▄█▄█▄█▄▀ █▄▀ ▀ ▀▄█ █▄█ ▀▄█▄█ █ ▀ █▄▀ █▄█ █▄▄▄▄▄▄▄█
+2025-11-08T13:49:15: █▄ ▀▀ ▄▄▀▀██▀▄▀▄▀▄▄▄▀▀ █ ▀▀▄▄   ▄ ▄██ ▄  ▀▀▀▀▄▀▄▀ █▀▄█▄ ▄▄█
+2025-11-08T13:49:15: █▀█▄▀▄▀▄█ ▀▀▀█▄ ▄▀▄█▀▀▀█▀█▀█▄▄█ ██▄▄▄▀▀▄▀▀ ██ █▀ ▄▄▄▄ ▄▄█▀█
+2025-11-08T13:49:15: █▄▄ ▀██▄▄▄█ ▄█▀▀▀▄▀ ▄▀▄▄▀▀█▀▄▀▀██▄ ▄█▄█  ██ ▀ █▄▀▀█▀▄██▄ ▄█
+2025-11-08T13:49:15: █ ▀ █  ▄ ▄     ▄▄▀▄▀▄▀▀▄▄▄ ▄ ▀▄▀█ █▄ ███▄█▀▄  ▄▀ ▄▀▄▀▄ █ ▀█
+2025-11-08T13:49:15: █▀ ▄ ▀ ▄▄▀▄▀ ▀ ▄▀█▄▄▄ ▄█▀▀▄▀▄   ▀ ▄█▄▄▀ ▀▀  ▄▄▀▄▀▀█ ▄▀███▄█
+2025-11-08T13:49:15: █▄▄▄ █ ▄█  ▀ ▀▀█  ███▄▄ ▄█ ██▀▄▄█▀▀▀▄▄█ ▄█▄▄▀▀▄▄▀█▄ █ █▄▄██
+2025-11-08T13:49:15: █▀▀  ██▄  ▀  █▄ ▀▀▄ ▀ ▄█▀▄▄█ █▀ █ █▄▄ █ ██▀ ▄ ▀█▄▀ ▀ █▀▀▄██
+2025-11-08T13:49:15: █ ▄▄▀  ▄ ▄ ▄  ▄ ▄█  ▄█▄▀▄ ▀ ▄▄▄██▄███▀█▄▀█  ▀ ▀▄ ▀▀▄█▀▄▄▀██
+2025-11-08T13:49:15: █▀▄▄▀█▀▄ ▄█ ▀▄▀  █   ▀▀▀▀   ▀▀▀▀▀█▀ █▄█▀██  █▄▄█  ▀ ▄▀▄▀███
+2025-11-08T13:49:15: █▄▀ ▀ ▄▄▄ █▀▄ ▄▀█▄▀  ▀▄ ▄█▄ ▄▄▄ ▄▄  ▄█▄  █▀▄▄▀██  ▄▄▄ ▄█ ▀█
+2025-11-08T13:49:15: ███ ▀ █▄█  █▄▄▄█▀█▄▀█▀▀█▀ ▄ █▄█ █  ▄ ▄ ▀ █  ▀  ▄▀ █▄█ ██▀██
+2025-11-08T13:49:15: █▀█▀█  ▄  ██ ▀▄▀▀█  ▀▀ ▄▀▀▀▄  ▄▄▀▀██▄█     ▀ ▄▄ █▄  ▄ █▄▄▀█
+2025-11-08T13:49:15: █▄▄  ▄▀▄ █▄▀▀█▀█ █▄ █▀ ▀ ▀▀ ▀▄▀ ▀ ▄█▄ █▀ █▀ ▀▄ ▄█▀ ▀▀▄▀▄█▄█
+2025-11-08T13:49:15: █▄▀█▄ ▀▄▀▀ ▄ ▄████ ▄  █▄ ▀▀ ▄▄▄███▄▀▀█ █ ▄▀  █▀▀▄▄ █▄▀▄▄█▀█
+2025-11-08T13:49:15: ██ ▄▄ █▄▄█▄▀▄███▄█▄▄▄▄▄▀▄ ▀▀▄█ ██  ▄▄▄▄▀▄█  █▄▀▄█▀ ▀ ▄▄▄ ▄█
+2025-11-08T13:49:15: █  ▀█▄▀▄▀▄▀ ▀█▄▄▀  ▀▀ █▄▀█▄█▀ ▀▀▀▄▀▀▄▀▄█ ▀ ▄▀█ ▀▄▄ ▀▀ ██▄▄█
+2025-11-08T13:49:15: █▀▀  █▀▄█▄███▄▀▄▀▄▄▄▀▀ █▀  ▄▀██▀▄ ▄█▀▄▀ ▄█▀▀█ ▄▄▀▄██▀▄▀  ▄█
+2025-11-08T13:49:15: █    ▀▀▄▀▄▀█ █▀ ▄█▄█ ▄▀█▀▀█▀ ▄███▀▀▄ ▄█▄▀▄  ████▄ ▀▀  ██ ▀█
+2025-11-08T13:49:15: █▀▄ ▄█ ▄  ▄▀  ▀▄▀█▀ ▄ ▄▄▀  ▄ ▄▄▄█▄▀▄▄ ▄▀▄█  █▄█▄█▀█▄▄▄▄▄▄██
+2025-11-08T13:49:15: █ ▀ ▀▀▄▄▀█▀ ▀▄▀▀█▀▀██▀▀ █▀▄▀█ ██▀ █▄██▀▄▄  ▄ ▀▀█▄ ▄▀▀▀█▄▄▀█
+2025-11-08T13:49:15: ███████▄█▀ ▄   ▄▀█▄▄ ▀▄▀▀ ▀ ▄▄▄  ▄▀█▄▄█ ▄▀ ▀▀ ▀▄█ ▄▄▄ █ ▄██
+2025-11-08T13:49:15: █ ▄▄▄▄▄ █▀   █ ▄▀ ██▀▄ ▀▀▄▄ █▄█ ▀▄▀  █▀█   ▄▀███  █▄█  ▄▄▀█
+2025-11-08T13:49:15: █ █   █ █▄▀██   ▀▀ ▄▀  █▀▄▀▄▄  ▄▀▄█▄ ▄█ ▄█▀▀█ █▄▀ ▄ ▄▄▄█  █
+2025-11-08T13:49:15: █ █▄▄▄█ █▀▀▄ ██ ▄█▄▀▄██ ▄ ▀ ▀▄▄ ██▄█ ▀█▀▀██ █▄█▀█▀▀▄█ █▄███
+2025-11-08T13:49:15: █▄▄▄▄▄▄▄█▄█▄▄█▄▄██▄▄██▄█▄██▄███▄███▄█▄██▄█▄▄█▄███▄▄▄▄████▄█
+2025-11-08T13:49:15: 
+2025-11-08T13:49:47: Shutting down WhatsApp Gateway...
+2025-11-08T13:49:47: WhatsApp connection closed for default
+2025-11-08T13:49:47: Logged out for default. Please scan QR again.
+2025-11-08T13:49:47: Logged out default
