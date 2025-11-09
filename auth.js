@@ -1,6 +1,6 @@
 // auth.js - Authentication middleware
-require('dotenv').config();
-const jwt = require('jsonwebtoken');
+import 'dotenv/config';
+import jwt from 'jsonwebtoken';
 
 // Generate a simple API key authentication
 const API_KEY = process.env.API_KEY || 'whatsapp_gateway_default_key';
@@ -64,7 +64,7 @@ const authenticate = (req, res, next) => {
   });
 };
 
-module.exports = {
+export {
   authenticate,
   authenticateToken,
   authenticateApiKey

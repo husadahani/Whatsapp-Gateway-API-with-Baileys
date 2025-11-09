@@ -1,7 +1,7 @@
 module.exports = {
   apps: [{
     name: 'whatsapp-gateway',
-    script: './server.js',
+    script: './server.mjs',
     instances: 1,
     exec_mode: 'fork', // Changed from cluster to fork to avoid issues with Baileys
     autorestart: true,
